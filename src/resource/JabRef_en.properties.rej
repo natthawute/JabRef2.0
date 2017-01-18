@@ -1,0 +1,11 @@
+***************
+*** 1020,1022 ****
+  Filter=Filter
+  Hide_non-matching_entries=Hide_non-matching_entries
+  Replace_(regular_expression)=Replace_(regular_expression)
+--- 1020,1024 ----
+  Filter=Filter
+  Hide_non-matching_entries=Hide_non-matching_entries
+  Replace_(regular_expression)=Replace_(regular_expression)
++ 
++ Replace_comma_by_and_where_appropriate=Replace_comma_by_and_where_appropriate

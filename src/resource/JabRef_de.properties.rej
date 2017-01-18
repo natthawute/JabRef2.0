@@ -1,0 +1,11 @@
+***************
+*** 1019,1021 ****
+  Filter=
+  Hide_non-matching_entries=
+  Replace_(regular_expression)=
+--- 1019,1023 ----
+  Filter=
+  Hide_non-matching_entries=
+  Replace_(regular_expression)=
++ 
++ Replace_comma_by_and_where_appropriate=Kommata_zwischen_Autoren_durch_and_ersetzen

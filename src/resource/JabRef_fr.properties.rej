@@ -1,0 +1,11 @@
+***************
+*** 1008,1010 ****
+  Filter=
+  Hide_non-matching_entries=
+  Replace_(regular_expression)=
+--- 1008,1012 ----
+  Filter=
+  Hide_non-matching_entries=
+  Replace_(regular_expression)=
++ 
++ Replace_comma_by_and_where_appropriate=Remplacer_virgules_entre_auteurs_par_and
